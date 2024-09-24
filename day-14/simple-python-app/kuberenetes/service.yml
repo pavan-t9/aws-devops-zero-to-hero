@@ -11,4 +11,4 @@ spec:
   ports:
     - protocol: TCP
       port: 80        # External port
-      targetPort: 80  # Pod's container port
+      targetPort: 5000  # Pod's container port
