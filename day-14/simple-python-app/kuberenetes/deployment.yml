@@ -18,4 +18,4 @@ spec:
       - name: simple-python-app
         image: pavant049/simple-python-flask-app:latest
         ports:
-        - containerPort: 80
+        - containerPort: 5000
